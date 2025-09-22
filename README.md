@@ -6,7 +6,7 @@ Chaque notebook présente une analyse exploratoire de données (EDA) et des visu
 ## Contenu du dépôt
 
 - '''notebooks''': Contient les notebooks Jupyter (.ipynb) avec mes analyses et visualisations
-- '''datasets''': Jeux de données utilisés 
+- '''datasets''': Jeux de données utilisés (.csv)
 
 ## Technologies utilisées
 
