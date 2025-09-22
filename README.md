@@ -18,7 +18,7 @@ Chaque notebook présente une analyse exploratoire de données (EDA) et des visu
 
 ## Comment exécuter le projet
 
-1. Cloner le dépôt :
+ Cloner le dépôt :
    '''bash
    git clone https://github.com/EddieZIDA/Data_Analysis_Practice.git
    cd Data_Analysis_Practice
